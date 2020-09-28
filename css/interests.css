@@ -1,0 +1,13 @@
+*{margin:0; padding:0;}
+body{background-color: #F5FFFA;}
+#wrap{padding-top: 35px;}
+#wrap .header{display:flex;justify-content: space-between;width:1440px;margin:0 auto;}
+#wrap .header h1 a{text-decoration: none;}
+#wrap .header h1 a:hover{color:green;}
+#wrap .header ul{list-style: none;}
+#wrap .header ul li{float:left;padding:0 15px; font-size: 20px;}
+#wrap .header ul li a{text-decoration: none;}
+#wrap .header ul li:hover{color:green;}
+.b_text{width:1440px; background-color: skyblue;margin:0 auto;}
+.b_text p{font-size: 45px;margin-top:5%;}
+#content{width:1440px; background-color: tomato;}
